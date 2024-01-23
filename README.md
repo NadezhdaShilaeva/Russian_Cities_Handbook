@@ -1,6 +1,6 @@
 # Russian Cities Handbook
 
-###### Made on the virtual internship "Java development in Sber"
+###### Made on the virtual internship ["Java development in Sber"](https://v.preactum.ru/stazhirovki/sberbank-java-razrabotka/)
 
 В проекте реализована загрузка и обработка справочника городов России, состоящая из четырех этапов:
 * Загрузка справочников городов России
